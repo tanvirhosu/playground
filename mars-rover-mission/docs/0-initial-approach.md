@@ -25,9 +25,9 @@ Object-oriented design without over-engineering, just enough to make it work wit
 - Main: main entry point for the application that handles input validation and output reporting
 - Grid: manager of boundaries and obstacles
 - Position: value for coordinate (x:int, y:int)
-- Direction: handle orientation and turning
+- Direction: value for orientation (N, E, S, W)
 - Rover: main entity that holds state and execute commands to move and turn
-- Result: final state of the rover and any obstacle found
+- Result: final position (x, y) and direction
 
 
 # Problem verification

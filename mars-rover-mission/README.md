@@ -8,6 +8,10 @@ You’re part of the team that explores Mars by sending remotely controlled vehi
 - Suppose we are on a really weird planet that is square (nxn).
 - Implement obstacle detection before each move to a new square. If a given sequence of commands encounters an obstacle, the rover moves up to the last possible point, aborts the sequence and reports the obstacle.
 
+## Technical decisions
+
+- [Initial approach](./docs/0-initial-approach.md)
+
 ## Execution
 
 ### Tech requirements
