@@ -11,6 +11,7 @@ You’re part of the team that explores Mars by sending remotely controlled vehi
 ## Technical decisions
 
 - [Initial approach](./docs/0-initial-approach.md)
+- [First improvement iteration](./docs/1-second-approach.md)
 
 ## Execution
 
