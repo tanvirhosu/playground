@@ -8,9 +8,9 @@ Branches are organized by technology. Each tech stack has a dedicated long-lived
 
 | Branch | Purpose |
 | --- | ---  |
-| `js` | JavaScript/TypeScript projects and experiments |
-| `php` | PHP projects |
-| `csharp` | .NET & C# projects |
+| [`js`](https://github.com/tanvirhosu/playground/tree/js) | JavaScript/TypeScript projects and experiments |
+| [`php`](https://github.com/tanvirhosu/playground/tree/php) | PHP projects |
+| [`csharp`](https://github.com/tanvirhosu/playground/tree/csharp) | .NET & C# projects |
 | `[tech]` | More tech branches as needed |
 
 **Rules for Tech Branches**
